@@ -1,0 +1,88 @@
+debug: false
+log_level: error
+off_self_upgrading: true
+perf: ./datalogs/md2_agent.log
+core: 4
+endpoint: ""
+logfile: ./var/app.log
+logutil:
+  writer:
+    is_open: false
+    file: ./var/metrics.json
+    max_size: 100
+    max_files: 5
+  reader:
+    dir: ./datalogs/
+    interval: 5
+transfer:
+  urls:
+    - https://mallard-transfer-cdn.bs58i.baishancdnx.com/
+  apis:
+    config: /api/config
+    iconfig: /api/integration/config
+    pkg: /api/pkg
+    event: /api/event
+    metric: /api/metric
+    row: /api/row
+    plugingz: /api/plugingz
+    self: /api/agentinfo
+  addon: {}
+  configinterval: 30
+  selfinfointerval: 180
+  timeout: 10
+  ismock: false
+sysconfig:
+  major:
+    interval: 60
+    prefix: ""
+  minor:
+    alwaysenable: false
+    interval: 10
+    sertypes:
+      - smallnode
+    prefix: sysminor
+  docker:
+    alwaysenable: false
+    sertypes:
+      - pcdn
+    interval: 60
+    macfile: /allconf/pppoe.d/mac_nic_map.conf
+svrinfointerval: 300
+plugins:
+  dir: ./plugin
+  logdir: ./var/plugin
+  reload: 60
+server:
+  addr: 127.0.0.1:10699
+  timeout: 300
+  certfile: ''
+  keyfile: ''
+pluginmonitor:
+  metricname: mallard_plugin_monitor
+  urgentinterval: 600
+  normalinterval: 3600
+data_cache:
+  is_open: false
+  db_config:
+    dsn: /usr/local/mallard/mallard-agent/var/data_cache.db
+    max_conn: 50
+    idle_time: 300
+  clean_interval: 60
+  list:
+    - name: load
+      expire: 300
+data_persistator:
+  is_open: true
+  db_config:
+    dsn: /usr/local/mallard/mallard-agent/var/data_staging.db
+    max_conn: 20
+    idle_time: 300
+    timeout: 3
+  max_time_span: 259200
+  max_size_mb: 10000
+  recovery_count: 10
+  recovery_interval: 300
+  min_consume_count: 10
+  max_consume_count: 200
+  consume_duration: 600
+  consume_interval: 40

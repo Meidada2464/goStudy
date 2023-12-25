@@ -3,39 +3,52 @@ package SimpleFactory
 import "fmt"
 
 // 这里来做一个简单工厂模式的示例
+// 简单工厂模式是指，由接口定义工厂和产品的接口。工厂接口的返回对象是产品接口，只有实现了产品接口的对象会被返回
+// 优点：解除了工厂和产品的耦合度，使产品和工厂解耦
 
-// 接口
+// 实例
 
-type Restaurant interface {
-	// GetFood 提供一个抽象的方法
-	GetFood()
+type Factory interface {
+	// FactoryMethod 简单的工厂，解耦了工厂和产品
+	FactoryMethod() Product
 }
 
-// DinnerRoomFirst 具体工厂1
-type DinnerRoomFirst struct {
+type Product interface {
+	// Use 产品必选要有的特征
+	Use()
 }
 
-// DinnerRoomerSecond 具体工厂2
-type DinnerRoomerSecond struct {
+// ConcreteFactory 开始实例化一个工厂
+type ConcreteFactory struct {
 }
 
-// 对接口方法进行了实现
-
-func (dF *DinnerRoomFirst) GetFood() {
-	fmt.Println("DinnerRoomerFirst提供的食物")
+type ConcreteProduct struct {
 }
 
-func (dF *DinnerRoomerSecond) GetFood() {
-	fmt.Println("DinnerRoomerSecond提供的食物")
+// CarFactory 再创建一个工厂，用来生产汽车
+type CarFactory struct {
 }
 
-// NewRestaurant 抽象工厂,输入需要的食物，并提供
-func NewRestaurant(name string) Restaurant {
-	switch name {
-	case "first":
-		return &DinnerRoomFirst{}
-	case "second":
-		return &DinnerRoomerSecond{}
-	}
-	return nil
+// CarProduct 汽车产品
+type CarProduct struct {
+}
+
+func (c *CarFactory) FactoryMethod() Product {
+	return &CarProduct{}
+}
+
+func (c CarProduct) Use() {
+	fmt.Println("汽车产品！")
+}
+
+// ConcreteFactory具体工厂实现Factory接口
+
+func (c *ConcreteFactory) FactoryMethod() Product {
+	// 这里为什么一定要是地址？
+	return &ConcreteProduct{}
+}
+
+// Use 定义产品，产品也实现product接口
+func (c *ConcreteProduct) Use() {
+	fmt.Println("具体的产品")
 }

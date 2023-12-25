@@ -1,0 +1,3302 @@
+[
+  {
+    "Machine": {
+      "Name": "lt-jilin-liaoyuan-sn1-221-8-122-38",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "221.8.122.38",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-jilin-liaoyuan-sn1-221-8-122-41",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "221.8.122.41",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-jilin-liaoyuan-sn1-221-8-122-40",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "221.8.122.40",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-jilin-liaoyuan-sn1-221-8-122-45",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "221.8.122.45",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-jilin-liaoyuan-sn1-221-8-122-46",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "221.8.122.46",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-jilin-liaoyuan-sn1-221-8-122-48",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "221.8.122.48",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-jilin-liaoyuan-sn1-221-8-122-47",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "221.8.122.47",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-jilin-liaoyuan-sn1-221-8-122-13",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "221.8.122.13",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-jilin-liaoyuan-sn1-221-8-122-15",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "221.8.122.15",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-jilin-liaoyuan-sn1-221-8-122-11",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "221.8.122.11",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-jilin-liaoyuan-sn1-221-8-122-34",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "221.8.122.34",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-jilin-liaoyuan-sn1-221-8-122-6",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "221.8.122.6",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-jilin-liaoyuan-sn1-221-8-122-7",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "221.8.122.7",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-jilin-liaoyuan-sn1-221-8-122-9",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "221.8.122.9",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-jilin-liaoyuan-sn1-221-8-122-36",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "221.8.122.36",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-jilin-liaoyuan-sn1-221-8-122-14",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "221.8.122.14",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-jilin-liaoyuan-sn1-221-8-122-12",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "221.8.122.12",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-jilin-liaoyuan-sn1-221-8-122-5",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "221.8.122.5",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-jilin-liaoyuan-sn1-221-8-122-3",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "221.8.122.3",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-jilin-liaoyuan-sn1-221-8-122-17",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "221.8.122.17",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-jilin-liaoyuan-sn1-221-8-122-16",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "221.8.122.16",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-jilin-liaoyuan-sn1-221-8-122-35",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "221.8.122.35",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-jilin-liaoyuan-sn1-221-8-122-10",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "221.8.122.10",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-jilin-liaoyuan-sn1-221-8-122-4",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "221.8.122.4",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-jilin-liaoyuan-sn1-221-8-122-8",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "221.8.122.8",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-jilin-liaoyuan-sn1-221-8-122-39",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "221.8.122.39",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-jilin-liaoyuan-sn1-221-8-122-37",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "221.8.122.37",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-jilin-liaoyuan-sn1-221-8-122-42",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "221.8.122.42",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-jilin-liaoyuan-sn1-221-8-122-43",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "221.8.122.43",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "dx-anhui-hefei-sn4-223-247-109-163",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "223.247.109.163",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "dx-anhui-hefei-sn4-223-247-109-166",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "223.247.109.166",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "dx-anhui-hefei-sn4-223-247-109-167",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "223.247.109.167",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "dx-anhui-hefei-sn4-223-247-109-168",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "223.247.109.168",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "dx-anhui-hefei-sn4-223-247-109-169",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "223.247.109.169",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "dx-anhui-hefei-sn4-223-247-109-173",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "223.247.109.173",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "dx-anhui-hefei-sn4-223-247-109-174",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "223.247.109.174",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "dx-anhui-hefei-sn4-223-247-109-175",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "223.247.109.175",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "dx-anhui-hefei-sn4-223-247-109-176",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "223.247.109.176",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "dx-anhui-hefei-sn4-223-247-109-177",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "223.247.109.177",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "dx-anhui-hefei-sn9-223-247-109-209",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "223.247.109.209",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "dx-anhui-hefei-sn9-223-247-109-212",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "223.247.109.212",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "dx-anhui-hefei-sn9-223-247-109-203",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "223.247.109.203",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "dx-anhui-hefei-sn9-223-247-109-207",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "223.247.109.207",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "dx-anhui-hefei-sn9-223-247-109-205",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "223.247.109.205",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "dx-anhui-hefei-sn9-223-247-109-208",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "223.247.109.208",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "dx-anhui-hefei-sn9-223-247-109-206",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "223.247.109.206",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "dx-anhui-hefei-sn9-223-247-109-211",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "223.247.109.211",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "dx-anhui-hefei-sn9-223-247-109-210",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "223.247.109.210",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "dx-anhui-hefei-sn9-223-247-109-204",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "223.247.109.204",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "dx-anhui-hefei-sn9-223-247-109-202",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "223.247.109.202",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "dx-anhui-hefei-sn4-223-247-109-164",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "223.247.109.164",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "yd-heilongjiang-haerbin-sn19-111-40-29-214",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "111.40.29.214",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "yd-heilongjiang-haerbin-sn19-111-40-29-211",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "111.40.29.211",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "yd-heilongjiang-haerbin-sn19-111-40-29-208",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "111.40.29.208",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "yd-heilongjiang-haerbin-sn19-111-40-29-206",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "111.40.29.206",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "yd-heilongjiang-haerbin-sn19-111-40-29-197",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "111.40.29.197",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "yd-heilongjiang-haerbin-sn19-111-40-29-207",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "111.40.29.207",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "yd-heilongjiang-haerbin-sn19-111-40-29-215",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "111.40.29.215",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "yd-heilongjiang-haerbin-sn19-111-40-29-210",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "111.40.29.210",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "yd-heilongjiang-haerbin-sn19-111-40-29-198",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "111.40.29.198",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "yd-heilongjiang-haerbin-sn19-111-40-29-203",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "111.40.29.203",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "yd-heilongjiang-haerbin-sn19-111-40-29-202",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "111.40.29.202",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "yd-heilongjiang-haerbin-sn19-111-40-29-205",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "111.40.29.205",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "yd-heilongjiang-haerbin-sn19-111-40-29-201",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "111.40.29.201",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "yd-heilongjiang-haerbin-sn19-111-40-29-199",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "111.40.29.199",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "yd-heilongjiang-haerbin-sn19-111-40-29-213",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "111.40.29.213",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "yd-heilongjiang-haerbin-sn19-111-40-29-200",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "111.40.29.200",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "yd-heilongjiang-haerbin-sn19-111-40-29-212",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "111.40.29.212",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "yd-heilongjiang-haerbin-sn19-111-40-29-209",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "111.40.29.209",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "yd-heilongjiang-haerbin-sn19-111-40-29-204",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "111.40.29.204",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-hunan-yiyang-sn3-61-240-228-73",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "61.240.228.73",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-hunan-yiyang-sn3-61-240-228-75",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "61.240.228.75",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-hunan-yiyang-sn3-61-240-228-71",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "61.240.228.71",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-hunan-yiyang-sn3-61-240-228-66",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "61.240.228.66",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-hunan-yiyang-sn3-61-240-228-74",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "61.240.228.74",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-hunan-yiyang-sn3-61-240-228-70",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "61.240.228.70",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-hunan-yiyang-sn3-61-240-228-69",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "61.240.228.69",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-hunan-yiyang-sn3-61-240-228-67",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "61.240.228.67",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-hunan-yiyang-sn3-61-240-228-72",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "61.240.228.72",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-hunan-yiyang-sn3-61-240-228-68",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "61.240.228.68",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "dx-anhui-hefei-sn4-223-247-109-170",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "223.247.109.170",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "dx-anhui-hefei-sn4-223-247-109-171",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "223.247.109.171",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "dx-anhui-hefei-sn9-223-247-109-198",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "223.247.109.198",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "dx-anhui-hefei-sn9-223-247-109-196",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "223.247.109.196",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "dx-anhui-hefei-sn9-223-247-109-201",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "223.247.109.201",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "dx-anhui-hefei-sn9-223-247-109-197",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "223.247.109.197",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "dx-anhui-hefei-sn9-223-247-109-199",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "223.247.109.199",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "dx-anhui-hefei-sn9-223-247-109-195",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "223.247.109.195",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "dx-anhui-hefei-sn9-223-247-109-200",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "223.247.109.200",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-jilin-liaoyuan-sn1-221-8-122-61",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "221.8.122.61",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-jilin-liaoyuan-sn1-221-8-122-59",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "221.8.122.59",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-jilin-liaoyuan-sn1-221-8-122-60",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "221.8.122.60",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-jilin-liaoyuan-sn1-221-8-122-57",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "221.8.122.57",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-jilin-liaoyuan-sn1-221-8-122-56",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "221.8.122.56",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-jilin-liaoyuan-sn1-221-8-122-55",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "221.8.122.55",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-jilin-liaoyuan-sn1-221-8-122-58",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,xdp_director,static_parent",
+      "IP": "221.8.122.58",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-guangxi-hechi-sn1-110-72-96-78",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,sdwan_popaccess,sdwan_popnetworkgray,hiwan_dataplane,xdp_director,static_parent",
+      "IP": "110.72.96.78",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-guangxi-hechi-sn1-110-72-96-76",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,sdwan_popnetwork,sdwan_popaccess,hiwan_dataplane,xdp_director,gtm_risk_ns,dns_dns,dns_rockdns,static_parent",
+      "IP": "110.72.96.76",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-guangxi-hechi-sn1-110-72-96-77",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,sdwan_popnetwork,sdwan_popaccess,hiwan_dataplane,xdp_director,gtm_risk_ns,dns_dns,dns_rockdns,static_parent",
+      "IP": "110.72.96.77",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  },
+  {
+    "Machine": {
+      "Name": "lt-guangxi-hechi-sn1-110-72-96-67",
+      "Prov": "anhui",
+      "City": "hefei",
+      "Status": "2101|2007|2201",
+      "Node": "dx-anhui-hefei-jd-1",
+      "CacheGroup": "dx-anhui-hefei-1-cache-1",
+      "ServerType": "cache_cache,live_edge,comp_pcdn_schedule,sdwan_popnetwork,sdwan_popaccess,hiwan_dataplane,xdp_director,gtm_risk_ns,dns_dns,dns_rockdns,static_parent",
+      "IP": "110.72.96.67",
+      "ISP": "dx",
+      "RealISP": "dx"
+    },
+    "Task": {
+      "Control": {
+        "time_to_aggr": 0,
+        "task_name": "ff_ping_test",
+        "survival_time": 0,
+        "ip_type": "ipv4-ipv4",
+        "detect_service_type": "cache",
+        "detect_protocol": "ping",
+        "params": {
+          "detect_frequency": 10,
+          "package_size": 32,
+          "package_num": 4,
+          "is_need_mtr": false,
+          "threshold": 10,
+          "max_hop": 12
+        }
+      },
+      "Type": "ff_ping_test"
+    }
+  }
+]

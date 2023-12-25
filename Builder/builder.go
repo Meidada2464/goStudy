@@ -1,97 +1,54 @@
 package Builder
 
-import "fmt"
+// 生成器模式
+// 角色：1、生成器（builder） 2、具体生成器（ConcreteBuilder） 3、产品（Product） 4、主管（Director）
 
-// 建造者模式属于对象创建型模式
-// 建造者模式可以一步一步地建造一个对象，允许用户只通过指定复杂对象的类型和内容就可以构建它们，无需知道内部的具体构造细节
-
-// 模式结构包含一下结构
-// 1、Builder: 抽象建造者	2、ConcreteBuilder: 具体建造者  3、Director： 指挥官  4、Product：产品角色
-// 指挥官是关键，其属性是抽象建造者，指挥官有其方法可以规定组装顺序很重要
-
+// Builder 创建生成器
 type Builder interface {
-	SetBrand(s string)
-	SetEngine(s string)
-	SetPrice(s string)
+	Build()
 }
 
-type Director struct {
-	// 结构体里面的属性可以是借口类型的
-	builder Builder
+// ConcreteBuilder 具体生成器
+type ConcreteBuilder struct {
+	result Product
 }
 
-func (d *Director) Construct(brand, engine, price string) {
-	// 规定建造顺序
-	d.builder.SetBrand(brand)
-	d.builder.SetEngine(engine)
-	d.builder.SetPrice(price)
-}
-
-// NewDirector 创建一个方法，可以创建不同类型的指挥官
-func NewDirector(bu Builder) Director {
-	return Director{
-		builder: bu,
+func (c *ConcreteBuilder) Build() {
+	// 包含完整的创建对象的过程
+	c.result = Product{
+		name: "产品1",
+		size: 25,
 	}
 }
 
-// Product1 Product 创建具体z制造者
-type Product1 struct {
-	// 比如这个制造商有不同的属性
-	Brand  string
-	Engine string
-	Price  string
+func (c *ConcreteBuilder) GetResult() Product {
+	// 返回在生成步骤中生成的产品对象
+	return c.result
 }
 
-func NewProduct1() *Product1 {
-	return &Product1{}
+type Product struct {
+	name string
+	size int
 }
 
-func (p *Product1) getProduct() Product1 {
-	return *p
+// NewConcreteBuilder 初始化一个生成器
+func NewConcreteBuilder() ConcreteBuilder {
+	// 初始化时对生成器的内容进行初始化
+	return ConcreteBuilder{result: Product{}}
 }
 
-func (p *Product1) SetBrand(s string) {
-	fmt.Println("loading P1 Brand:", s)
-	p.Brand = s
+// ========================================================
+
+// Director 创建主管，用于控制生成最终产品对象算法的类
+type Director struct {
+	builder Builder
 }
 
-func (p *Product1) SetEngine(s string) {
-	fmt.Println("loading P1 Engine:", s)
-	p.Engine = s
+func (d *Director) Construct() {
+	// 用于定义生成对象时的步骤
+	d.builder.Build()
 }
 
-func (p *Product1) SetPrice(s string) {
-	fmt.Println("loading P1 Price:", s)
-	p.Price = s
-}
-
-// Product2 Product1 Product 创建具体z制造者
-type Product2 struct {
-	// 比如这个制造商有不同的属性
-	Brand  string
-	Engine string
-	Price  string
-}
-
-func NewProduct2() *Product2 {
-	return &Product2{}
-}
-
-func (p *Product2) getProduct() Product2 {
-	return *p
-}
-
-func (p *Product2) SetBrand(s string) {
-	fmt.Println("loading P2 Brand:", s)
-	p.Brand = s
-}
-
-func (p *Product2) SetEngine(s string) {
-	fmt.Println("loading P2 Engine:", s)
-	p.Engine = s
-}
-
-func (p *Product2) SetPrice(s string) {
-	fmt.Println("loading P2 Price:", s)
-	p.Price = s
+func NewDirector(builder Builder) Director {
+	return Director{builder}
 }
