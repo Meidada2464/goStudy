@@ -1,6 +1,7 @@
 package SlitTest
 
 import (
+	"encoding/json"
 	"fmt"
 	"goStudy/imroc/req"
 	"testing"
@@ -71,4 +72,15 @@ func TestUncode(t *testing.T) {
 
 	fmt.Printf("%+v\n", provinceIdMap)
 
+}
+
+func TestMapNull(t *testing.T) {
+	ipInfo := MapT()
+	ipInfoStr, _ := json.Marshal(ipInfo)
+	fmt.Println("aaa", string(ipInfoStr))
+}
+
+func MapT() (aInfo map[string]int) {
+	aInfo = map[string]int{}
+	return
 }
