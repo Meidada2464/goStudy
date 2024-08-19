@@ -189,3 +189,80 @@ func TestName4(t *testing.T) {
 	s := string(marshal)
 	fmt.Println(s)
 }
+
+func TestName5(t *testing.T) {
+	var (
+		e2i = make(map[string]uint, 0)
+	)
+
+	e2i["dx_heilongjiang"] = 12
+	e2i["dx_hei"] = 3
+
+	fmt.Println("v1", e2i["dx_heilongjiang"])
+	fmt.Println("v2", e2i["dx_hei"])
+}
+
+func TestName6(t *testing.T) {
+	var (
+		e2i = make([]string, 0)
+	)
+	e2i = append(e2i, "aaa")
+	e2i = append(e2i, "bbb")
+	e2i = append(e2i, "ccc")
+
+	for i, s := range e2i {
+		fmt.Println("i:", i, "s:", s)
+	}
+
+}
+
+func TestName7(t *testing.T) {
+
+	var i = 4
+
+	switch i {
+	case 3:
+		fmt.Println("1111")
+	case 4:
+		fmt.Println("2222")
+	case 5:
+		fmt.Println("33333")
+	}
+
+}
+
+func TestName8(t *testing.T) {
+	var (
+		needAddEpList = make([]string, 0)
+	)
+
+	needAddEpList = append(needAddEpList, "1")
+	needAddEpList = append(needAddEpList, "2")
+
+	fmt.Println(needAddEpList)
+}
+
+type SaveNetChildTaskInput struct {
+	TaskId *int32 `json:"task_id"` // 主任务id
+	Tag    *int32 `json:"tag"`     // 子任务id
+}
+
+func TestName9(t *testing.T) {
+	var a int32 = 1
+	b := &a
+
+	var aaa *SaveNetChildTaskInput
+	aaa.TaskId = b
+
+	if aaa.Tag == nil {
+		fmt.Println("aaa", aaa)
+	}
+	var tag = aaa.Tag
+	fmt.Println(tag)
+}
+
+func TestName10(t *testing.T) {
+	var tempMap = make(map[string]int32, 0)
+	tempMap["aa"] = 1
+	fmt.Println(tempMap["cc"])
+}
