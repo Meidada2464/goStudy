@@ -244,3 +244,9 @@ func TestSomething(t *testing.T) {
 	fmt.Println("TestSomething")
 	assert.New(t)
 }
+
+func TestSomething2(t *testing.T) {
+	var a = 23.4333
+	b := a / 1e2
+	fmt.Printf("min: %.3f ms", b)
+}

@@ -2,6 +2,7 @@ package handleTest
 
 import (
 	"fmt"
+	"math/rand"
 	"testing"
 )
 
@@ -66,5 +67,12 @@ func BenchmarkFooWithDefer(b *testing.B) {
 func BenchmarkFooWithoutDefer(b *testing.B) {
 	for i := 0; i < b.N; i++ {
 		fooWithoutDefer()
+	}
+}
+
+func TestMath(t *testing.T) {
+	for i := 0; i < 20; i++ {
+		round := rand.Intn(10)
+		fmt.Println(round)
 	}
 }
