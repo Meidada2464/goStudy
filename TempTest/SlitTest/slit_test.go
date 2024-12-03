@@ -250,3 +250,37 @@ func TestSomething2(t *testing.T) {
 	b := a / 1e2
 	fmt.Printf("min: %.3f ms", b)
 }
+
+func TestSlice(t *testing.T) {
+	done := make(chan bool)
+
+	values := []string{"a", "b", "c"}
+	for _, v := range values {
+		go func(v2 string) {
+			fmt.Println(v2)
+			done <- true
+		}(v)
+	}
+
+	// wait for all goroutines to complete before exiting
+	for _ = range values {
+		<-done
+	}
+}
+
+func TestSlice2(t *testing.T) {
+	done := make(chan bool)
+
+	values := []string{"a", "b", "c"}
+	for _, v := range values {
+		go func() {
+			fmt.Println(v)
+			done <- true
+		}()
+	}
+
+	// wait for all goroutines to complete before exiting
+	for _ = range values {
+		<-done
+	}
+}
